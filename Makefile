@@ -1,4 +1,4 @@
 deps:
-	pip install -r test_requirements.txt
+	pip3 install -r test_requirements.txt
 test:
 	PYTHONPATH= py.test
